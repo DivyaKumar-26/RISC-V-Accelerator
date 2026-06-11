@@ -192,9 +192,10 @@ The accelerator will be evaluated using:
 
 ---
 
-## Author
+## Authors
 
 Divya Kumar
+Garvit Bansal
 
 Project Area:
 Computer Architecture | Digital Design | Hardware Accelerators | RISC-V | DSP | Edge AI
