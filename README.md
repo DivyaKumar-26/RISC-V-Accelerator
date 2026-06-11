@@ -99,47 +99,7 @@ Applications:
 
 ---
 
-## Repository Structure
 
-```text
-RISC-V-Accelerator/
-│
-├── docs/
-│   ├── proposal/
-│   ├── architecture/
-│   ├── reports/
-│   └── references/
-│
-├── rtl/
-│   ├── riscv_core/
-│   ├── accelerator/
-│   │   ├── mac/
-│   │   ├── fft/
-│   │   ├── simd/
-│   │   ├── controller/
-│   │   └── interface/
-│   └── top/
-│
-├── tb/
-│   ├── mac/
-│   ├── fft/
-│   ├── simd/
-│   └── system/
-│
-├── programs/
-│   ├── matrix_mul/
-│   ├── fft/
-│   ├── fir/
-│   └── benchmarks/
-│
-├── scripts/
-│
-├── vivado/
-│
-└── results/
-```
-
----
 
 ## Development Roadmap
 
@@ -182,7 +142,7 @@ RISC-V-Accelerator/
 
 ## Tools Used
 
-* SystemVerilog
+* Verilog
 * AMD Vivado
 * Vivado Simulator (xsim)
 * Git
